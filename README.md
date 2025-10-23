@@ -79,3 +79,6 @@ const client = new WAConnection();
     }
   });
 })();
+cd path/to/my-whatsapp-bot
+npm install
+node index.js
